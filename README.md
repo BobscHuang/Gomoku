@@ -22,7 +22,10 @@ As mentioned before, the goal of the game is to connect five pieces in a row, ei
 
 ## Screenshots
 
-To be added...
+<p align="center">
+<img src="images/001.png" width="48%" />
+<img src="images/002.png" width="48%" />
+</p>
 
 ## Built With
 
